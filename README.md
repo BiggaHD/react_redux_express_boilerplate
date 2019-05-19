@@ -1,4 +1,4 @@
-# React, Redux, and Express (NodeJS) Starter Pack
+### React, Redux, and Express (NodeJS) Starter Pack
 
 > Create full stack apps with React/Redux and Express. Run your client and server with a single command
 
